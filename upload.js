@@ -1,5 +1,5 @@
 /*
-    
+    https://github.com/rayqian/uploading
     Uploading
     new Uploading('//up.qiniu.com', file, 'token', 'POST');
 
