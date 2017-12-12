@@ -1,6 +1,6 @@
 /*
+    
     Uploading
-
     new Uploading('//up.qiniu.com', file, 'token', 'POST');
 
 **/
